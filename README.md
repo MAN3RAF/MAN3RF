@@ -1,6 +1,6 @@
 # Welcome 👋
 
-Welcome — I'm Sebar_Lahcen aka MAN3RAF, a student at 1337 programming school.
+Welcome — I'm Sebar_Lahcen aka MAN3RF, a student at 1337 programming school.
 Learning software engineering, building projects, and solving problems one commit at a time.
 
 - 🔭 Currently: studying at 1337 programming school
